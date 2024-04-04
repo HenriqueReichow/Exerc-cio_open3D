@@ -1,1 +1,1 @@
-# Exerc-cio_open3D
+# Exercicio_open3D
